@@ -1,76 +1,15 @@
 from ui_helpers import create_cells
-import json
-import random
-import ssl
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.poolmanager import PoolManager
-import json
-import random
-import requests
-from requests_toolbelt.adapters import host_header_ssl
-
-GROK_API_KEY = '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'
-GROK_API_URL = 'https://api.grok.ai/v1/chat'
-
-class TLSAdapter(HTTPAdapter):
-    def generate_trivia_question_grok(topic):
-        unique_id = random.randint(1, 10000)
-        prompt = (
-            f"Generate a unique multiple-choice trivia question about {topic} with a unique element ({unique_id}). "
-            "Provide four unique answer options and indicate the correct option index (0-3). "
-            "Return only a valid JSON object with exactly these keys: 'question', 'options', 'answer'. "
-            "Example output: {\"question\": \"Where are the Pyramids of Giza located?\", "
-            "\"options\": [\"Egypt\", \"Mexico\", \"India\", \"Peru\"], \"answer\": 0}"
-        )
-
-        headers = {
-            'Authorization': f'Bearer {GROK_API_KEY}',
-            'Content-Type': 'application/json',
-            # Include the Host header explicitly.
-            'Host': 'api.grok.ai'
-        }
-
-        payload = {
-            "model": "grok-chat",
-            "messages": [
-                {"role": "system", "content": "You are a trivia question generator."},
-                {"role": "user", "content": prompt}
-            ],
-            "temperature": 0.7,
-            "max_tokens": 200
-        }
-
-        try:
-            session = requests.Session()
-            # Mount the HostHeaderSSLAdapter for our Grok API URL.
-            session.mount("https://api.grok.ai", host_header_ssl.HostHeaderSSLAdapter())
-            # Send the POST request; verify=False is used temporarily.
-            response = session.post(GROK_API_URL, headers=headers, json=payload, verify=False)
-            response.raise_for_status()
-            data = response.json()
-            text = data.get('choices', [{}])[0].get('message', {}).get('content', '').strip()
-            start = text.find("{")
-            end = text.rfind("}") + 1
-            if start == -1 or end == -1:
-                print("Could not extract JSON boundaries.")
-                return None
-            json_text = text[start:end]
-            question_obj = json.loads(json_text)
-            return question_obj
-        except requests.exceptions.RequestException as e:
-            print(f"Error communicating with Grok API: {e}")
-            return None
 
 class GameModel:
     def __init__(self):
-        self.state = "game_type"
+        self.state = "welcome"  # Starting state
         self.player1_name = ""
         self.player2_name = ""
         self.player1_color = (255, 0, 0)
         self.player2_color = (0, 0, 255)
         self.ai_enabled = False
-        self.game_mode = None
+        self.ai_difficulty = "easy"  # "easy", "medium", or "hard"
+        self.game_mode = None       # "3x3", "4x4", or "5x5"
         self.board_size = None
         self.cell_size = None
         self.board_origin = None
@@ -80,7 +19,6 @@ class GameModel:
         self.result_message = ""
         self.current_trivia_question = None
         self.pending_move = None
-        # New flag to avoid logging results multiple times.
         self.result_logged = False
 
     def create_board(self):
@@ -99,7 +37,6 @@ class GameModel:
         self.cells = create_cells(self.board_origin[0], self.board_origin[1], self.cell_size, self.board_size)
         self.current_turn = "X"
         self.moves = []
-        # Reset result_logged for a new game.
         self.result_logged = False
 
 def check_draw(cells):
@@ -156,6 +93,7 @@ def board_to_2d(cells, board_size):
     return board
 
 def evaluate_board(board):
+    # Simple evaluation for a 3x3 board.
     for i in range(3):
         if board[i][0] is not None and board[i][0] == board[i][1] == board[i][2]:
             return board[i][0]

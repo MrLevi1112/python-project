@@ -2,7 +2,6 @@ import pygame
 
 pygame.font.init()
 
-# Color scheme and gradient colors.
 BACKGROUND_GRADIENT_START = (135, 206, 235)  # Sky Blue
 BACKGROUND_GRADIENT_END = (255, 255, 255)      # White
 
@@ -11,7 +10,6 @@ BLACK = (20, 20, 20)
 GRAY = (180, 180, 180)
 DARK_GRAY = (100, 100, 100)
 
-# Modern fonts.
 FONT = pygame.font.SysFont("Verdana", 30)
 SMALL_FONT = pygame.font.SysFont("Verdana", 24)
 

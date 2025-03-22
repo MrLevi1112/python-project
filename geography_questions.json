@@ -1,0 +1,5002 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Bucharest",
+            "Wellington",
+            "Paris",
+            "Santiago"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of France?",
+        "options": [
+            "New Delhi",
+            "Paris",
+            "Helsinki",
+            "Canberra"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of France.",
+        "options": [
+            "Buenos Aires",
+            "Hanoi",
+            "Paris",
+            "Santiago"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of France?",
+        "options": [
+            "Ankara",
+            "Stockholm",
+            "Paris",
+            "Hanoi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of France.",
+        "options": [
+            "Brasília",
+            "Moscow",
+            "Budapest",
+            "Paris"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of France?",
+        "options": [
+            "Islamabad",
+            "Berlin",
+            "Paris",
+            "New Delhi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of France.",
+        "options": [
+            "Paris",
+            "Jakarta",
+            "Warsaw",
+            "Abuja"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in France?",
+        "options": [
+            "Jakarta",
+            "Cairo",
+            "Paris",
+            "Baghdad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of France.",
+        "options": [
+            "Paris",
+            "Pretoria",
+            "Oslo",
+            "Kuala Lumpur"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of France?",
+        "options": [
+            "Paris",
+            "Sofia",
+            "Tokyo",
+            "Wellington"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of United Kingdom?",
+        "options": [
+            "London",
+            "Lima",
+            "Athens",
+            "Budapest"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of United Kingdom?",
+        "options": [
+            "London",
+            "Ottawa",
+            "Helsinki",
+            "Nairobi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of United Kingdom.",
+        "options": [
+            "London",
+            "Riyadh",
+            "Lima",
+            "Brasília"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of United Kingdom?",
+        "options": [
+            "Vienna",
+            "Cairo",
+            "Kyiv",
+            "London"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of United Kingdom.",
+        "options": [
+            "London",
+            "Cairo",
+            "Copenhagen",
+            "Pretoria"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of United Kingdom?",
+        "options": [
+            "Kyiv",
+            "London",
+            "Copenhagen",
+            "Ankara"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of United Kingdom.",
+        "options": [
+            "Kuala Lumpur",
+            "Prague",
+            "London",
+            "Kyiv"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in United Kingdom?",
+        "options": [
+            "London",
+            "Prague",
+            "Vienna",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of United Kingdom.",
+        "options": [
+            "Stockholm",
+            "Riyadh",
+            "Oslo",
+            "London"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of United Kingdom?",
+        "options": [
+            "Lisbon",
+            "Jakarta",
+            "London",
+            "Bern"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": [
+            "Lisbon",
+            "Tokyo",
+            "Tehran",
+            "Berlin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Japan?",
+        "options": [
+            "Tokyo",
+            "Canberra",
+            "New Delhi",
+            "Jerusalem"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Japan.",
+        "options": [
+            "Tokyo",
+            "Ottawa",
+            "Pretoria",
+            "Ankara"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Japan?",
+        "options": [
+            "Bogotá",
+            "Tokyo",
+            "Nairobi",
+            "Bern"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Japan.",
+        "options": [
+            "Ottawa",
+            "Tokyo",
+            "Santiago",
+            "Vienna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Japan?",
+        "options": [
+            "Helsinki",
+            "Tokyo",
+            "Wellington",
+            "Nairobi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Japan.",
+        "options": [
+            "Tehran",
+            "Tokyo",
+            "Copenhagen",
+            "Bogotá"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Japan?",
+        "options": [
+            "Bogotá",
+            "New Delhi",
+            "Tokyo",
+            "Rome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Japan.",
+        "options": [
+            "Ankara",
+            "Tokyo",
+            "Santiago",
+            "Baghdad"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Japan?",
+        "options": [
+            "Lisbon",
+            "Riyadh",
+            "Seoul",
+            "Tokyo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": [
+            "Rome",
+            "Ottawa",
+            "Santiago",
+            "Kyiv"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Canada?",
+        "options": [
+            "Ottawa",
+            "Canberra",
+            "Warsaw",
+            "Baghdad"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Canada.",
+        "options": [
+            "Ottawa",
+            "Sofia",
+            "Singapore",
+            "Copenhagen"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Canada?",
+        "options": [
+            "Ottawa",
+            "Brasília",
+            "Madrid",
+            "Singapore"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of Canada.",
+        "options": [
+            "Ottawa",
+            "Jakarta",
+            "Ankara",
+            "Cairo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Canada?",
+        "options": [
+            "Vienna",
+            "Moscow",
+            "Ottawa",
+            "Amsterdam"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Canada.",
+        "options": [
+            "Beirut",
+            "Ottawa",
+            "Kyiv",
+            "Berlin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Canada?",
+        "options": [
+            "Bogotá",
+            "Berlin",
+            "Oslo",
+            "Ottawa"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Canada.",
+        "options": [
+            "Santiago",
+            "Dhaka",
+            "London",
+            "Ottawa"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Canada?",
+        "options": [
+            "Ottawa",
+            "Brasília",
+            "Bern",
+            "Nairobi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": [
+            "Mexico City",
+            "Cairo",
+            "Tokyo",
+            "Jakarta"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Egypt?",
+        "options": [
+            "Mexico City",
+            "Rome",
+            "Ottawa",
+            "Cairo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Egypt.",
+        "options": [
+            "Baghdad",
+            "New Delhi",
+            "Cairo",
+            "Beirut"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Egypt?",
+        "options": [
+            "Kuala Lumpur",
+            "Ankara",
+            "Cairo",
+            "London"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Egypt.",
+        "options": [
+            "Cairo",
+            "Seoul",
+            "Bern",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Egypt?",
+        "options": [
+            "Vienna",
+            "Berlin",
+            "Cairo",
+            "Tokyo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Egypt.",
+        "options": [
+            "Abuja",
+            "Prague",
+            "Ottawa",
+            "Cairo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Egypt?",
+        "options": [
+            "Vienna",
+            "Cairo",
+            "Bern",
+            "Jakarta"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Egypt.",
+        "options": [
+            "Abuja",
+            "Cairo",
+            "Buenos Aires",
+            "Brussels"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Egypt?",
+        "options": [
+            "Kyiv",
+            "Lisbon",
+            "Bucharest",
+            "Cairo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": [
+            "Bern",
+            "Nairobi",
+            "Amsterdam",
+            "Berlin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Germany?",
+        "options": [
+            "Bucharest",
+            "Berlin",
+            "Lisbon",
+            "Helsinki"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Germany.",
+        "options": [
+            "Wellington",
+            "Berlin",
+            "Lisbon",
+            "Kyiv"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Germany?",
+        "options": [
+            "Brussels",
+            "Jakarta",
+            "Nairobi",
+            "Berlin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Germany.",
+        "options": [
+            "Berlin",
+            "Santiago",
+            "Lisbon",
+            "Stockholm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Germany?",
+        "options": [
+            "Bern",
+            "Berlin",
+            "Jerusalem",
+            "Singapore"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Germany.",
+        "options": [
+            "Jerusalem",
+            "Berlin",
+            "Bogotá",
+            "Oslo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Germany?",
+        "options": [
+            "Jakarta",
+            "Paris",
+            "Berlin",
+            "Baghdad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Germany.",
+        "options": [
+            "Mexico City",
+            "Warsaw",
+            "Berlin",
+            "Oslo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Germany?",
+        "options": [
+            "Bern",
+            "Mexico City",
+            "Berlin",
+            "Nairobi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "options": [
+            "Brasília",
+            "Amsterdam",
+            "London",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Brazil?",
+        "options": [
+            "Bern",
+            "Kuala Lumpur",
+            "Brasília",
+            "Abuja"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Brazil.",
+        "options": [
+            "Brasília",
+            "Stockholm",
+            "Amsterdam",
+            "Kyiv"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Brazil?",
+        "options": [
+            "Lima",
+            "Stockholm",
+            "Brasília",
+            "Canberra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Brazil.",
+        "options": [
+            "Brasília",
+            "Bern",
+            "Seoul",
+            "Baghdad"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Brazil?",
+        "options": [
+            "Bogotá",
+            "Dhaka",
+            "London",
+            "Brasília"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Brazil.",
+        "options": [
+            "Athens",
+            "Brasília",
+            "Jerusalem",
+            "Santiago"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Brazil?",
+        "options": [
+            "Warsaw",
+            "Brasília",
+            "Canberra",
+            "Bern"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Brazil.",
+        "options": [
+            "Cairo",
+            "Tehran",
+            "Brasília",
+            "Berlin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Brazil?",
+        "options": [
+            "Brasília",
+            "Tehran",
+            "Islamabad",
+            "Baghdad"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": [
+            "Paris",
+            "Riyadh",
+            "Moscow",
+            "Helsinki"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Russia?",
+        "options": [
+            "Bern",
+            "Madrid",
+            "London",
+            "Moscow"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Russia.",
+        "options": [
+            "Moscow",
+            "New Delhi",
+            "Nairobi",
+            "Bogotá"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Russia?",
+        "options": [
+            "Lima",
+            "Hanoi",
+            "Moscow",
+            "Berlin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Russia.",
+        "options": [
+            "Ottawa",
+            "Moscow",
+            "Seoul",
+            "Lima"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Russia?",
+        "options": [
+            "Sofia",
+            "Moscow",
+            "Pretoria",
+            "Bogotá"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Russia.",
+        "options": [
+            "Moscow",
+            "New Delhi",
+            "Pretoria",
+            "London"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Russia?",
+        "options": [
+            "New Delhi",
+            "Paris",
+            "Moscow",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Russia.",
+        "options": [
+            "Bucharest",
+            "Bern",
+            "Moscow",
+            "Brasília"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Russia?",
+        "options": [
+            "Lisbon",
+            "Oslo",
+            "Moscow",
+            "Rome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": [
+            "Baghdad",
+            "Canberra",
+            "Athens",
+            "Dhaka"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Australia?",
+        "options": [
+            "Canberra",
+            "Dhaka",
+            "Riyadh",
+            "Moscow"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Australia.",
+        "options": [
+            "Dhaka",
+            "Jerusalem",
+            "Canberra",
+            "Oslo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Australia?",
+        "options": [
+            "Warsaw",
+            "Dhaka",
+            "Canberra",
+            "Ottawa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Australia.",
+        "options": [
+            "Islamabad",
+            "Copenhagen",
+            "Canberra",
+            "Ankara"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Australia?",
+        "options": [
+            "Jerusalem",
+            "Canberra",
+            "Moscow",
+            "Bogotá"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Australia.",
+        "options": [
+            "Tehran",
+            "Tokyo",
+            "Bern",
+            "Canberra"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Australia?",
+        "options": [
+            "Kuala Lumpur",
+            "Bern",
+            "Canberra",
+            "Hanoi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Australia.",
+        "options": [
+            "Jakarta",
+            "Seoul",
+            "Canberra",
+            "Cairo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Australia?",
+        "options": [
+            "Vienna",
+            "Athens",
+            "Hanoi",
+            "Canberra"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "Ankara",
+            "Canberra",
+            "New Delhi",
+            "Dhaka"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of India?",
+        "options": [
+            "Bogotá",
+            "Sofia",
+            "New Delhi",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of India.",
+        "options": [
+            "Hanoi",
+            "New Delhi",
+            "Cairo",
+            "Paris"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of India?",
+        "options": [
+            "Bogotá",
+            "New Delhi",
+            "Vienna",
+            "Budapest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of India.",
+        "options": [
+            "Santiago",
+            "Singapore",
+            "Canberra",
+            "New Delhi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of India?",
+        "options": [
+            "New Delhi",
+            "Singapore",
+            "Nairobi",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of India.",
+        "options": [
+            "Kyiv",
+            "Ankara",
+            "New Delhi",
+            "Brussels"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in India?",
+        "options": [
+            "Kyiv",
+            "New Delhi",
+            "Amsterdam",
+            "Wellington"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of India.",
+        "options": [
+            "New Delhi",
+            "Budapest",
+            "Ankara",
+            "Rome"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of India?",
+        "options": [
+            "Berlin",
+            "New Delhi",
+            "Ankara",
+            "Warsaw"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": [
+            "Baghdad",
+            "Canberra",
+            "Athens",
+            "Rome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Italy?",
+        "options": [
+            "Cairo",
+            "Baghdad",
+            "Athens",
+            "Rome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Italy.",
+        "options": [
+            "Brussels",
+            "Warsaw",
+            "Riyadh",
+            "Rome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Italy?",
+        "options": [
+            "Santiago",
+            "Rome",
+            "Brussels",
+            "Oslo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Italy.",
+        "options": [
+            "Lima",
+            "Baghdad",
+            "London",
+            "Rome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Italy?",
+        "options": [
+            "Dhaka",
+            "Baghdad",
+            "Beirut",
+            "Rome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Italy.",
+        "options": [
+            "Rome",
+            "Islamabad",
+            "Hanoi",
+            "Santiago"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Italy?",
+        "options": [
+            "Rome",
+            "Hanoi",
+            "Sofia",
+            "Santiago"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Italy.",
+        "options": [
+            "Kyiv",
+            "Pretoria",
+            "Rome",
+            "Brasília"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Italy?",
+        "options": [
+            "Helsinki",
+            "Cairo",
+            "Rome",
+            "Paris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": [
+            "Amsterdam",
+            "Lima",
+            "Oslo",
+            "Madrid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Spain?",
+        "options": [
+            "Jerusalem",
+            "Oslo",
+            "Wellington",
+            "Madrid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Spain.",
+        "options": [
+            "Madrid",
+            "Berlin",
+            "Singapore",
+            "Helsinki"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Spain?",
+        "options": [
+            "Copenhagen",
+            "Madrid",
+            "Santiago",
+            "Bogotá"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Spain.",
+        "options": [
+            "Bogotá",
+            "Madrid",
+            "Bern",
+            "Tehran"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Spain?",
+        "options": [
+            "Madrid",
+            "Jerusalem",
+            "Cairo",
+            "Bogotá"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of Spain.",
+        "options": [
+            "Jakarta",
+            "Madrid",
+            "Amsterdam",
+            "Tokyo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Spain?",
+        "options": [
+            "Warsaw",
+            "Bogotá",
+            "Dhaka",
+            "Madrid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Spain.",
+        "options": [
+            "Madrid",
+            "Lima",
+            "Jerusalem",
+            "Mexico City"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Spain?",
+        "options": [
+            "Singapore",
+            "Jakarta",
+            "Madrid",
+            "Stockholm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "options": [
+            "Bern",
+            "Rome",
+            "Prague",
+            "Mexico City"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Mexico?",
+        "options": [
+            "Stockholm",
+            "New Delhi",
+            "Mexico City",
+            "Moscow"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Mexico.",
+        "options": [
+            "Moscow",
+            "Riyadh",
+            "Mexico City",
+            "Bogotá"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Mexico?",
+        "options": [
+            "Canberra",
+            "Moscow",
+            "Vienna",
+            "Mexico City"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Mexico.",
+        "options": [
+            "Riyadh",
+            "Islamabad",
+            "Mexico City",
+            "Bogotá"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Mexico?",
+        "options": [
+            "Budapest",
+            "Mexico City",
+            "Islamabad",
+            "Seoul"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Mexico.",
+        "options": [
+            "Mexico City",
+            "Sofia",
+            "Hanoi",
+            "Brasília"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Mexico?",
+        "options": [
+            "Sofia",
+            "Athens",
+            "Ottawa",
+            "Mexico City"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Mexico.",
+        "options": [
+            "Dhaka",
+            "Berlin",
+            "Mexico City",
+            "Copenhagen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Mexico?",
+        "options": [
+            "Brussels",
+            "Kuala Lumpur",
+            "Mexico City",
+            "Helsinki"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": [
+            "Wellington",
+            "Madrid",
+            "Seoul",
+            "Kuala Lumpur"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of South Korea?",
+        "options": [
+            "Seoul",
+            "Ottawa",
+            "Islamabad",
+            "Dhaka"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of South Korea.",
+        "options": [
+            "Canberra",
+            "Singapore",
+            "Seoul",
+            "Prague"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of South Korea?",
+        "options": [
+            "London",
+            "Prague",
+            "Seoul",
+            "Bern"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of South Korea.",
+        "options": [
+            "Jerusalem",
+            "Prague",
+            "Buenos Aires",
+            "Seoul"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of South Korea?",
+        "options": [
+            "Prague",
+            "Berlin",
+            "Lima",
+            "Seoul"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of South Korea.",
+        "options": [
+            "Seoul",
+            "Sofia",
+            "Kyiv",
+            "Jerusalem"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in South Korea?",
+        "options": [
+            "Santiago",
+            "Seoul",
+            "Vienna",
+            "Islamabad"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of South Korea.",
+        "options": [
+            "Copenhagen",
+            "Warsaw",
+            "Seoul",
+            "New Delhi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of South Korea?",
+        "options": [
+            "Jerusalem",
+            "Berlin",
+            "Seoul",
+            "Islamabad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Netherlands?",
+        "options": [
+            "Amsterdam",
+            "Vienna",
+            "Seoul",
+            "Hanoi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Netherlands?",
+        "options": [
+            "Dhaka",
+            "Rome",
+            "Amsterdam",
+            "Sofia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Netherlands.",
+        "options": [
+            "London",
+            "Amsterdam",
+            "Copenhagen",
+            "Pretoria"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Netherlands?",
+        "options": [
+            "Kyiv",
+            "Amsterdam",
+            "Beirut",
+            "Seoul"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Netherlands.",
+        "options": [
+            "Amsterdam",
+            "Brasília",
+            "Tehran",
+            "Kuala Lumpur"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Netherlands?",
+        "options": [
+            "Mexico City",
+            "Budapest",
+            "Sofia",
+            "Amsterdam"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Netherlands.",
+        "options": [
+            "Amsterdam",
+            "Islamabad",
+            "Helsinki",
+            "Oslo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Netherlands?",
+        "options": [
+            "Brasília",
+            "Moscow",
+            "Canberra",
+            "Amsterdam"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Netherlands.",
+        "options": [
+            "Warsaw",
+            "Amsterdam",
+            "Brasília",
+            "Vienna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Netherlands?",
+        "options": [
+            "Mexico City",
+            "Santiago",
+            "Berlin",
+            "Amsterdam"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Sweden?",
+        "options": [
+            "Stockholm",
+            "Santiago",
+            "Vienna",
+            "Nairobi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Sweden?",
+        "options": [
+            "Wellington",
+            "Stockholm",
+            "Prague",
+            "Athens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Sweden.",
+        "options": [
+            "Nairobi",
+            "Prague",
+            "Tokyo",
+            "Stockholm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Sweden?",
+        "options": [
+            "Abuja",
+            "Stockholm",
+            "London",
+            "Dhaka"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Sweden.",
+        "options": [
+            "Vienna",
+            "Madrid",
+            "Kyiv",
+            "Stockholm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Sweden?",
+        "options": [
+            "Bucharest",
+            "Stockholm",
+            "Riyadh",
+            "Abuja"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Sweden.",
+        "options": [
+            "Dhaka",
+            "Warsaw",
+            "Stockholm",
+            "Rome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Sweden?",
+        "options": [
+            "Kuala Lumpur",
+            "Stockholm",
+            "Cairo",
+            "Ottawa"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Sweden.",
+        "options": [
+            "Baghdad",
+            "Jerusalem",
+            "Stockholm",
+            "Madrid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Sweden?",
+        "options": [
+            "Stockholm",
+            "Hanoi",
+            "Budapest",
+            "Beirut"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Norway?",
+        "options": [
+            "Seoul",
+            "Oslo",
+            "Tokyo",
+            "Athens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Norway?",
+        "options": [
+            "Brussels",
+            "Oslo",
+            "Helsinki",
+            "Ankara"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Norway.",
+        "options": [
+            "Santiago",
+            "Paris",
+            "Rome",
+            "Oslo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Norway?",
+        "options": [
+            "Tehran",
+            "Rome",
+            "Cairo",
+            "Oslo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Norway.",
+        "options": [
+            "Rome",
+            "Oslo",
+            "Budapest",
+            "Vienna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Norway?",
+        "options": [
+            "Stockholm",
+            "Kyiv",
+            "Mexico City",
+            "Oslo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Norway.",
+        "options": [
+            "Canberra",
+            "Abuja",
+            "Cairo",
+            "Oslo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Norway?",
+        "options": [
+            "Cairo",
+            "Oslo",
+            "Stockholm",
+            "Beirut"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Norway.",
+        "options": [
+            "Brussels",
+            "Canberra",
+            "Oslo",
+            "Amsterdam"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Norway?",
+        "options": [
+            "Oslo",
+            "Pretoria",
+            "Moscow",
+            "Berlin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Switzerland?",
+        "options": [
+            "Riyadh",
+            "Stockholm",
+            "Bern",
+            "Athens"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Switzerland?",
+        "options": [
+            "Madrid",
+            "London",
+            "Bern",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Switzerland.",
+        "options": [
+            "Pretoria",
+            "Dhaka",
+            "Bern",
+            "Santiago"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Switzerland?",
+        "options": [
+            "Bucharest",
+            "New Delhi",
+            "Bern",
+            "Helsinki"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Switzerland.",
+        "options": [
+            "London",
+            "Bern",
+            "Amsterdam",
+            "Ankara"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Switzerland?",
+        "options": [
+            "Lisbon",
+            "Bern",
+            "Sofia",
+            "Pretoria"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Switzerland.",
+        "options": [
+            "Nairobi",
+            "Seoul",
+            "Bern",
+            "Canberra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Switzerland?",
+        "options": [
+            "Helsinki",
+            "Budapest",
+            "Oslo",
+            "Bern"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Switzerland.",
+        "options": [
+            "Cairo",
+            "Tokyo",
+            "Bern",
+            "Sofia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Switzerland?",
+        "options": [
+            "Athens",
+            "Bern",
+            "Cairo",
+            "Ankara"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Belgium?",
+        "options": [
+            "Rome",
+            "Riyadh",
+            "Bucharest",
+            "Brussels"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Belgium?",
+        "options": [
+            "Moscow",
+            "Berlin",
+            "Brussels",
+            "Ottawa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Belgium.",
+        "options": [
+            "Tehran",
+            "Brussels",
+            "Buenos Aires",
+            "Paris"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Belgium?",
+        "options": [
+            "Athens",
+            "Budapest",
+            "Brussels",
+            "Seoul"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Belgium.",
+        "options": [
+            "Pretoria",
+            "Moscow",
+            "Brussels",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Belgium?",
+        "options": [
+            "Prague",
+            "Amsterdam",
+            "Sofia",
+            "Brussels"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Belgium.",
+        "options": [
+            "Brussels",
+            "Ottawa",
+            "Bern",
+            "Tokyo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Belgium?",
+        "options": [
+            "Cairo",
+            "Lima",
+            "Brussels",
+            "Berlin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Belgium.",
+        "options": [
+            "Jerusalem",
+            "Brussels",
+            "Pretoria",
+            "Hanoi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Belgium?",
+        "options": [
+            "Brussels",
+            "Madrid",
+            "Paris",
+            "Sofia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Austria?",
+        "options": [
+            "Nairobi",
+            "Copenhagen",
+            "Lisbon",
+            "Vienna"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Austria?",
+        "options": [
+            "Ottawa",
+            "Santiago",
+            "Vienna",
+            "Paris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Austria.",
+        "options": [
+            "Vienna",
+            "Ottawa",
+            "Kuala Lumpur",
+            "Bogotá"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Austria?",
+        "options": [
+            "Vienna",
+            "Bern",
+            "Riyadh",
+            "Prague"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of Austria.",
+        "options": [
+            "Brasília",
+            "Vienna",
+            "Bucharest",
+            "Jerusalem"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Austria?",
+        "options": [
+            "Islamabad",
+            "Beirut",
+            "Pretoria",
+            "Vienna"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Austria.",
+        "options": [
+            "Copenhagen",
+            "Ankara",
+            "Vienna",
+            "Jerusalem"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Austria?",
+        "options": [
+            "Rome",
+            "Paris",
+            "Wellington",
+            "Vienna"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Austria.",
+        "options": [
+            "Berlin",
+            "Jakarta",
+            "Vienna",
+            "London"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Austria?",
+        "options": [
+            "Athens",
+            "Islamabad",
+            "Seoul",
+            "Vienna"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Portugal?",
+        "options": [
+            "Tehran",
+            "Lisbon",
+            "Kyiv",
+            "Buenos Aires"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Portugal?",
+        "options": [
+            "Copenhagen",
+            "Berlin",
+            "Lisbon",
+            "Santiago"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Portugal.",
+        "options": [
+            "Brasília",
+            "Sofia",
+            "Islamabad",
+            "Lisbon"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Portugal?",
+        "options": [
+            "Jakarta",
+            "Lisbon",
+            "Lima",
+            "Buenos Aires"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Portugal.",
+        "options": [
+            "Lisbon",
+            "Pretoria",
+            "Amsterdam",
+            "Budapest"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Portugal?",
+        "options": [
+            "Pretoria",
+            "Lisbon",
+            "Amsterdam",
+            "Rome"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Portugal.",
+        "options": [
+            "Lisbon",
+            "Kuala Lumpur",
+            "Bern",
+            "Ottawa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Portugal?",
+        "options": [
+            "Lisbon",
+            "Wellington",
+            "Budapest",
+            "Sofia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Portugal.",
+        "options": [
+            "Ottawa",
+            "Lisbon",
+            "Nairobi",
+            "Bogotá"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Portugal?",
+        "options": [
+            "Lisbon",
+            "Mexico City",
+            "Ankara",
+            "Brussels"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Greece?",
+        "options": [
+            "Riyadh",
+            "Oslo",
+            "Rome",
+            "Athens"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Greece?",
+        "options": [
+            "Berlin",
+            "Athens",
+            "Seoul",
+            "Brussels"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Greece.",
+        "options": [
+            "Jakarta",
+            "Athens",
+            "Dhaka",
+            "London"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Greece?",
+        "options": [
+            "Bucharest",
+            "Lima",
+            "Nairobi",
+            "Athens"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Greece.",
+        "options": [
+            "Kuala Lumpur",
+            "Bucharest",
+            "Athens",
+            "Tokyo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Greece?",
+        "options": [
+            "Jerusalem",
+            "Athens",
+            "Santiago",
+            "Beirut"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Greece.",
+        "options": [
+            "Islamabad",
+            "New Delhi",
+            "Athens",
+            "Nairobi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Greece?",
+        "options": [
+            "Helsinki",
+            "Athens",
+            "Pretoria",
+            "Sofia"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Greece.",
+        "options": [
+            "Riyadh",
+            "Nairobi",
+            "Athens",
+            "Wellington"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Greece?",
+        "options": [
+            "Athens",
+            "Canberra",
+            "Warsaw",
+            "Jakarta"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "options": [
+            "Baghdad",
+            "Paris",
+            "Beirut",
+            "Ankara"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Turkey?",
+        "options": [
+            "Ankara",
+            "Moscow",
+            "Mexico City",
+            "Ottawa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Turkey.",
+        "options": [
+            "Santiago",
+            "Budapest",
+            "Ankara",
+            "Wellington"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Turkey?",
+        "options": [
+            "Paris",
+            "Ankara",
+            "Budapest",
+            "Bucharest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Turkey.",
+        "options": [
+            "Mexico City",
+            "Ankara",
+            "Helsinki",
+            "Moscow"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Turkey?",
+        "options": [
+            "Singapore",
+            "Amsterdam",
+            "Beirut",
+            "Ankara"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Turkey.",
+        "options": [
+            "Madrid",
+            "Nairobi",
+            "Ankara",
+            "Baghdad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Turkey?",
+        "options": [
+            "Warsaw",
+            "Ankara",
+            "Oslo",
+            "Bern"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Turkey.",
+        "options": [
+            "Abuja",
+            "London",
+            "Ankara",
+            "Berlin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Turkey?",
+        "options": [
+            "Sofia",
+            "Ankara",
+            "Beirut",
+            "Oslo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Poland?",
+        "options": [
+            "Bern",
+            "Riyadh",
+            "Warsaw",
+            "Cairo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Poland?",
+        "options": [
+            "Helsinki",
+            "Warsaw",
+            "Amsterdam",
+            "Pretoria"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Poland.",
+        "options": [
+            "Bogotá",
+            "Warsaw",
+            "Athens",
+            "Prague"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Poland?",
+        "options": [
+            "Amsterdam",
+            "Warsaw",
+            "Cairo",
+            "Kyiv"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Poland.",
+        "options": [
+            "Berlin",
+            "Tehran",
+            "Warsaw",
+            "Madrid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Poland?",
+        "options": [
+            "Dhaka",
+            "Copenhagen",
+            "Warsaw",
+            "Lisbon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Poland.",
+        "options": [
+            "Lisbon",
+            "Warsaw",
+            "Athens",
+            "Vienna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Poland?",
+        "options": [
+            "Oslo",
+            "Warsaw",
+            "Moscow",
+            "Seoul"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Poland.",
+        "options": [
+            "Warsaw",
+            "London",
+            "Paris",
+            "Beirut"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Poland?",
+        "options": [
+            "Brussels",
+            "Wellington",
+            "Warsaw",
+            "Rome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Denmark?",
+        "options": [
+            "Copenhagen",
+            "Wellington",
+            "London",
+            "Vienna"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Denmark?",
+        "options": [
+            "Warsaw",
+            "New Delhi",
+            "Athens",
+            "Copenhagen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Denmark.",
+        "options": [
+            "Copenhagen",
+            "Madrid",
+            "Helsinki",
+            "Sofia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Denmark?",
+        "options": [
+            "Ankara",
+            "Tehran",
+            "Prague",
+            "Copenhagen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Denmark.",
+        "options": [
+            "Copenhagen",
+            "Brasília",
+            "Moscow",
+            "Sofia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Denmark?",
+        "options": [
+            "Brussels",
+            "Bucharest",
+            "Bogotá",
+            "Copenhagen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Denmark.",
+        "options": [
+            "Copenhagen",
+            "Buenos Aires",
+            "Tokyo",
+            "Ankara"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Denmark?",
+        "options": [
+            "Athens",
+            "Bucharest",
+            "Copenhagen",
+            "New Delhi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Denmark.",
+        "options": [
+            "Copenhagen",
+            "Buenos Aires",
+            "Warsaw",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Denmark?",
+        "options": [
+            "Tokyo",
+            "Oslo",
+            "Canberra",
+            "Copenhagen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Finland?",
+        "options": [
+            "Singapore",
+            "Warsaw",
+            "Helsinki",
+            "Jerusalem"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Finland?",
+        "options": [
+            "Helsinki",
+            "London",
+            "Lisbon",
+            "Canberra"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Finland.",
+        "options": [
+            "Berlin",
+            "Brasília",
+            "Moscow",
+            "Helsinki"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Finland?",
+        "options": [
+            "Tokyo",
+            "Islamabad",
+            "Ottawa",
+            "Helsinki"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Finland.",
+        "options": [
+            "Tehran",
+            "Sofia",
+            "New Delhi",
+            "Helsinki"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Finland?",
+        "options": [
+            "Lima",
+            "Helsinki",
+            "Bucharest",
+            "Canberra"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Finland.",
+        "options": [
+            "Helsinki",
+            "Cairo",
+            "Santiago",
+            "Berlin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Finland?",
+        "options": [
+            "Copenhagen",
+            "Ankara",
+            "Berlin",
+            "Helsinki"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Finland.",
+        "options": [
+            "Ankara",
+            "Helsinki",
+            "Vienna",
+            "Kuala Lumpur"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Finland?",
+        "options": [
+            "Copenhagen",
+            "Helsinki",
+            "Baghdad",
+            "Seoul"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "options": [
+            "Lisbon",
+            "Kyiv",
+            "Seoul",
+            "Buenos Aires"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Argentina?",
+        "options": [
+            "Ankara",
+            "Pretoria",
+            "Brussels",
+            "Buenos Aires"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Argentina.",
+        "options": [
+            "Tokyo",
+            "Prague",
+            "Ottawa",
+            "Buenos Aires"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Wellington",
+            "Bern",
+            "Lisbon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of Argentina.",
+        "options": [
+            "Buenos Aires",
+            "Singapore",
+            "Moscow",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Paris",
+            "Athens",
+            "Moscow"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of Argentina.",
+        "options": [
+            "Pretoria",
+            "Bogotá",
+            "Buenos Aires",
+            "Jakarta"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Argentina?",
+        "options": [
+            "Oslo",
+            "Santiago",
+            "Buenos Aires",
+            "Vienna"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Argentina.",
+        "options": [
+            "Moscow",
+            "Buenos Aires",
+            "London",
+            "Warsaw"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Argentina?",
+        "options": [
+            "Kuala Lumpur",
+            "Sofia",
+            "Brussels",
+            "Buenos Aires"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Chile?",
+        "options": [
+            "Prague",
+            "Budapest",
+            "Santiago",
+            "Baghdad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Chile?",
+        "options": [
+            "Santiago",
+            "Brussels",
+            "Moscow",
+            "Buenos Aires"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Chile.",
+        "options": [
+            "Prague",
+            "Hanoi",
+            "Helsinki",
+            "Santiago"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Chile?",
+        "options": [
+            "Islamabad",
+            "Helsinki",
+            "Cairo",
+            "Santiago"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Chile.",
+        "options": [
+            "Ottawa",
+            "Prague",
+            "Bucharest",
+            "Santiago"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Chile?",
+        "options": [
+            "Ottawa",
+            "Lisbon",
+            "Riyadh",
+            "Santiago"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Chile.",
+        "options": [
+            "Santiago",
+            "Warsaw",
+            "Seoul",
+            "Wellington"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Chile?",
+        "options": [
+            "Beirut",
+            "Santiago",
+            "Prague",
+            "Warsaw"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Chile.",
+        "options": [
+            "London",
+            "Cairo",
+            "Copenhagen",
+            "Santiago"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Chile?",
+        "options": [
+            "Lisbon",
+            "Amsterdam",
+            "Santiago",
+            "Athens"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Colombia?",
+        "options": [
+            "Nairobi",
+            "New Delhi",
+            "Kuala Lumpur",
+            "Bogotá"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Colombia?",
+        "options": [
+            "Bogotá",
+            "Prague",
+            "Amsterdam",
+            "Brussels"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Colombia.",
+        "options": [
+            "Riyadh",
+            "Brussels",
+            "Bogotá",
+            "Beirut"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Colombia?",
+        "options": [
+            "Pretoria",
+            "Bogotá",
+            "Riyadh",
+            "Hanoi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Colombia.",
+        "options": [
+            "Mexico City",
+            "Bogotá",
+            "Athens",
+            "Amsterdam"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Colombia?",
+        "options": [
+            "Warsaw",
+            "Lisbon",
+            "Bogotá",
+            "Berlin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Colombia.",
+        "options": [
+            "Bogotá",
+            "Nairobi",
+            "Canberra",
+            "Singapore"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Colombia?",
+        "options": [
+            "Bogotá",
+            "Buenos Aires",
+            "Budapest",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Colombia.",
+        "options": [
+            "Bogotá",
+            "Sofia",
+            "Paris",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Colombia?",
+        "options": [
+            "Buenos Aires",
+            "Berlin",
+            "Bogotá",
+            "Lima"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Peru?",
+        "options": [
+            "Lima",
+            "Singapore",
+            "Tehran",
+            "Warsaw"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Peru?",
+        "options": [
+            "London",
+            "Hanoi",
+            "Lima",
+            "Sofia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Peru.",
+        "options": [
+            "Bern",
+            "Berlin",
+            "Islamabad",
+            "Lima"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Peru?",
+        "options": [
+            "Madrid",
+            "Ottawa",
+            "Kuala Lumpur",
+            "Lima"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Peru.",
+        "options": [
+            "Tehran",
+            "Abuja",
+            "Lima",
+            "Dhaka"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Peru?",
+        "options": [
+            "Rome",
+            "Lima",
+            "Buenos Aires",
+            "London"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Peru.",
+        "options": [
+            "Jerusalem",
+            "Tehran",
+            "Warsaw",
+            "Lima"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Peru?",
+        "options": [
+            "Lima",
+            "Abuja",
+            "Bern",
+            "Prague"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Peru.",
+        "options": [
+            "Lima",
+            "Warsaw",
+            "Brussels",
+            "Hanoi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Peru?",
+        "options": [
+            "Stockholm",
+            "Brussels",
+            "Lima",
+            "Brasília"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": [
+            "Jakarta",
+            "Abuja",
+            "Beirut",
+            "Vienna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Nigeria?",
+        "options": [
+            "Madrid",
+            "Wellington",
+            "Abuja",
+            "New Delhi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Nigeria.",
+        "options": [
+            "New Delhi",
+            "Abuja",
+            "Bogotá",
+            "Kuala Lumpur"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Nigeria?",
+        "options": [
+            "Madrid",
+            "Warsaw",
+            "Ottawa",
+            "Abuja"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Nigeria.",
+        "options": [
+            "Abuja",
+            "Ottawa",
+            "Cairo",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Nigeria?",
+        "options": [
+            "Amsterdam",
+            "Prague",
+            "Abuja",
+            "Bern"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Nigeria.",
+        "options": [
+            "Brussels",
+            "Buenos Aires",
+            "Seoul",
+            "Abuja"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Nigeria?",
+        "options": [
+            "Berlin",
+            "Pretoria",
+            "Abuja",
+            "Canberra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Nigeria.",
+        "options": [
+            "Abuja",
+            "Warsaw",
+            "Tehran",
+            "Prague"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Nigeria?",
+        "options": [
+            "Paris",
+            "Lima",
+            "Hanoi",
+            "Abuja"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Mexico City",
+            "Nairobi",
+            "Sofia",
+            "Copenhagen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Kenya?",
+        "options": [
+            "Bern",
+            "Abuja",
+            "Beirut",
+            "Nairobi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Kenya.",
+        "options": [
+            "Pretoria",
+            "Cairo",
+            "Nairobi",
+            "Islamabad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Kenya?",
+        "options": [
+            "Budapest",
+            "Cairo",
+            "Nairobi",
+            "Bern"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Kenya.",
+        "options": [
+            "Brasília",
+            "Nairobi",
+            "Berlin",
+            "Kuala Lumpur"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Kenya?",
+        "options": [
+            "London",
+            "Nairobi",
+            "Oslo",
+            "Santiago"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Kenya.",
+        "options": [
+            "Brussels",
+            "Kyiv",
+            "Bucharest",
+            "Nairobi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Kenya?",
+        "options": [
+            "Madrid",
+            "Nairobi",
+            "Riyadh",
+            "Budapest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Kenya.",
+        "options": [
+            "Bern",
+            "Nairobi",
+            "Lima",
+            "Oslo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Kenya?",
+        "options": [
+            "Dhaka",
+            "Nairobi",
+            "Hanoi",
+            "Tehran"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "options": [
+            "Mexico City",
+            "Pretoria",
+            "Warsaw",
+            "Hanoi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of South Africa?",
+        "options": [
+            "Lima",
+            "Pretoria",
+            "Paris",
+            "Kyiv"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of South Africa.",
+        "options": [
+            "Prague",
+            "Tehran",
+            "New Delhi",
+            "Pretoria"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of South Africa?",
+        "options": [
+            "Pretoria",
+            "Beirut",
+            "Riyadh",
+            "Kyiv"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of South Africa.",
+        "options": [
+            "Pretoria",
+            "Warsaw",
+            "Beirut",
+            "Berlin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of South Africa?",
+        "options": [
+            "Ottawa",
+            "Vienna",
+            "Pretoria",
+            "Jakarta"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of South Africa.",
+        "options": [
+            "Pretoria",
+            "Paris",
+            "Baghdad",
+            "Warsaw"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in South Africa?",
+        "options": [
+            "Pretoria",
+            "London",
+            "Kyiv",
+            "Nairobi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of South Africa.",
+        "options": [
+            "Kuala Lumpur",
+            "Pretoria",
+            "Kyiv",
+            "Warsaw"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of South Africa?",
+        "options": [
+            "Abuja",
+            "Bern",
+            "Mexico City",
+            "Pretoria"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of New Zealand?",
+        "options": [
+            "Stockholm",
+            "Lisbon",
+            "Baghdad",
+            "Wellington"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of New Zealand?",
+        "options": [
+            "Wellington",
+            "Nairobi",
+            "London",
+            "Seoul"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of New Zealand.",
+        "options": [
+            "Tokyo",
+            "Jerusalem",
+            "Budapest",
+            "Wellington"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of New Zealand?",
+        "options": [
+            "Pretoria",
+            "Cairo",
+            "Wellington",
+            "Canberra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of New Zealand.",
+        "options": [
+            "Tehran",
+            "Helsinki",
+            "Dhaka",
+            "Wellington"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of New Zealand?",
+        "options": [
+            "Baghdad",
+            "Rome",
+            "Wellington",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of New Zealand.",
+        "options": [
+            "Riyadh",
+            "Wellington",
+            "Berlin",
+            "Singapore"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in New Zealand?",
+        "options": [
+            "Kyiv",
+            "Lima",
+            "Wellington",
+            "Bucharest"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of New Zealand.",
+        "options": [
+            "Budapest",
+            "Madrid",
+            "Dhaka",
+            "Wellington"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of New Zealand?",
+        "options": [
+            "Dhaka",
+            "Wellington",
+            "Vienna",
+            "Buenos Aires"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Indonesia?",
+        "options": [
+            "Cairo",
+            "Jakarta",
+            "Sofia",
+            "Tokyo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Indonesia?",
+        "options": [
+            "Bucharest",
+            "Jakarta",
+            "Oslo",
+            "Islamabad"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Indonesia.",
+        "options": [
+            "Copenhagen",
+            "Jakarta",
+            "Mexico City",
+            "Beirut"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Indonesia?",
+        "options": [
+            "Seoul",
+            "Jakarta",
+            "Canberra",
+            "Wellington"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Indonesia.",
+        "options": [
+            "Jakarta",
+            "Wellington",
+            "Singapore",
+            "Ankara"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Indonesia?",
+        "options": [
+            "Stockholm",
+            "Sofia",
+            "Jakarta",
+            "Brasília"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Indonesia.",
+        "options": [
+            "Berlin",
+            "Moscow",
+            "Jakarta",
+            "Sofia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Indonesia?",
+        "options": [
+            "Bogotá",
+            "Lima",
+            "Jakarta",
+            "Tehran"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "State the capital of Indonesia.",
+        "options": [
+            "Jakarta",
+            "Jerusalem",
+            "Kuala Lumpur",
+            "New Delhi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Indonesia?",
+        "options": [
+            "Berlin",
+            "Prague",
+            "Bern",
+            "Jakarta"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Iran?",
+        "options": [
+            "Hanoi",
+            "Tehran",
+            "Prague",
+            "New Delhi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Iran?",
+        "options": [
+            "Tehran",
+            "Santiago",
+            "Canberra",
+            "Sofia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Iran.",
+        "options": [
+            "Tehran",
+            "Mexico City",
+            "Prague",
+            "Wellington"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Iran?",
+        "options": [
+            "Oslo",
+            "Brussels",
+            "Tokyo",
+            "Tehran"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Iran.",
+        "options": [
+            "Warsaw",
+            "Mexico City",
+            "Beirut",
+            "Tehran"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Iran?",
+        "options": [
+            "Tehran",
+            "Moscow",
+            "Sofia",
+            "Lima"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of Iran.",
+        "options": [
+            "Wellington",
+            "Tehran",
+            "Amsterdam",
+            "Athens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Iran?",
+        "options": [
+            "Kyiv",
+            "Hanoi",
+            "Budapest",
+            "Tehran"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Iran.",
+        "options": [
+            "Ottawa",
+            "Buenos Aires",
+            "Tehran",
+            "Moscow"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Iran?",
+        "options": [
+            "Helsinki",
+            "Bogotá",
+            "Santiago",
+            "Tehran"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Iraq?",
+        "options": [
+            "Baghdad",
+            "Cairo",
+            "Jerusalem",
+            "Kuala Lumpur"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Iraq?",
+        "options": [
+            "Canberra",
+            "Baghdad",
+            "Oslo",
+            "Jerusalem"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Iraq.",
+        "options": [
+            "Amsterdam",
+            "Cairo",
+            "Baghdad",
+            "Nairobi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Iraq?",
+        "options": [
+            "Baghdad",
+            "Rome",
+            "Moscow",
+            "Mexico City"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of Iraq.",
+        "options": [
+            "Oslo",
+            "Copenhagen",
+            "Baghdad",
+            "Seoul"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Iraq?",
+        "options": [
+            "New Delhi",
+            "Buenos Aires",
+            "Lima",
+            "Baghdad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Iraq.",
+        "options": [
+            "London",
+            "Stockholm",
+            "Baghdad",
+            "New Delhi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Iraq?",
+        "options": [
+            "Buenos Aires",
+            "Sofia",
+            "Brussels",
+            "Baghdad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Iraq.",
+        "options": [
+            "Riyadh",
+            "Pretoria",
+            "Vienna",
+            "Baghdad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Iraq?",
+        "options": [
+            "Singapore",
+            "Mexico City",
+            "Baghdad",
+            "Canberra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Saudi Arabia?",
+        "options": [
+            "Madrid",
+            "Ottawa",
+            "Riyadh",
+            "Santiago"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Saudi Arabia?",
+        "options": [
+            "Oslo",
+            "Dhaka",
+            "Madrid",
+            "Riyadh"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Saudi Arabia.",
+        "options": [
+            "Riyadh",
+            "Nairobi",
+            "New Delhi",
+            "Lisbon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Saudi Arabia?",
+        "options": [
+            "Lima",
+            "Ankara",
+            "Vienna",
+            "Riyadh"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Saudi Arabia.",
+        "options": [
+            "Budapest",
+            "Bern",
+            "Riyadh",
+            "Brussels"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Saudi Arabia?",
+        "options": [
+            "Lisbon",
+            "Warsaw",
+            "Riyadh",
+            "Oslo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Saudi Arabia.",
+        "options": [
+            "Riyadh",
+            "Berlin",
+            "Ankara",
+            "New Delhi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Saudi Arabia?",
+        "options": [
+            "Riyadh",
+            "Islamabad",
+            "Mexico City",
+            "Wellington"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Saudi Arabia.",
+        "options": [
+            "Riyadh",
+            "Helsinki",
+            "Budapest",
+            "London"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Saudi Arabia?",
+        "options": [
+            "Riyadh",
+            "Jakarta",
+            "Mexico City",
+            "Dhaka"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Israel?",
+        "options": [
+            "Jerusalem",
+            "Oslo",
+            "Sofia",
+            "Vienna"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Israel?",
+        "options": [
+            "Jerusalem",
+            "Ankara",
+            "Riyadh",
+            "Ottawa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Israel.",
+        "options": [
+            "Lisbon",
+            "Athens",
+            "Budapest",
+            "Jerusalem"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Israel?",
+        "options": [
+            "Wellington",
+            "Baghdad",
+            "Ankara",
+            "Jerusalem"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Israel.",
+        "options": [
+            "Jerusalem",
+            "Moscow",
+            "Cairo",
+            "Bern"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Israel?",
+        "options": [
+            "Beirut",
+            "Moscow",
+            "Jerusalem",
+            "Baghdad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Israel.",
+        "options": [
+            "New Delhi",
+            "Tehran",
+            "Baghdad",
+            "Jerusalem"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Israel?",
+        "options": [
+            "Kuala Lumpur",
+            "Jerusalem",
+            "Tokyo",
+            "Oslo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Israel.",
+        "options": [
+            "Jerusalem",
+            "Moscow",
+            "Seoul",
+            "Paris"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Israel?",
+        "options": [
+            "Moscow",
+            "London",
+            "Lima",
+            "Jerusalem"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Lebanon?",
+        "options": [
+            "Brasília",
+            "Beirut",
+            "Ankara",
+            "Bogotá"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Lebanon?",
+        "options": [
+            "Brussels",
+            "Pretoria",
+            "Wellington",
+            "Beirut"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Lebanon.",
+        "options": [
+            "Kuala Lumpur",
+            "Beirut",
+            "Rome",
+            "New Delhi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Lebanon?",
+        "options": [
+            "Beirut",
+            "Tehran",
+            "Seoul",
+            "Cairo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of Lebanon.",
+        "options": [
+            "New Delhi",
+            "Bucharest",
+            "Beirut",
+            "Jerusalem"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Lebanon?",
+        "options": [
+            "Beirut",
+            "Canberra",
+            "Mexico City",
+            "Berlin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of Lebanon.",
+        "options": [
+            "Canberra",
+            "Seoul",
+            "Warsaw",
+            "Beirut"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Lebanon?",
+        "options": [
+            "Tehran",
+            "Beirut",
+            "Abuja",
+            "Athens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Lebanon.",
+        "options": [
+            "Mexico City",
+            "Helsinki",
+            "Singapore",
+            "Beirut"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Lebanon?",
+        "options": [
+            "Baghdad",
+            "Brussels",
+            "Budapest",
+            "Beirut"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Pakistan?",
+        "options": [
+            "Berlin",
+            "Athens",
+            "Budapest",
+            "Islamabad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Pakistan?",
+        "options": [
+            "Beirut",
+            "Hanoi",
+            "Islamabad",
+            "Oslo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Pakistan.",
+        "options": [
+            "Brussels",
+            "Bern",
+            "Islamabad",
+            "Tokyo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Pakistan?",
+        "options": [
+            "Islamabad",
+            "Berlin",
+            "Ottawa",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identify the capital of Pakistan.",
+        "options": [
+            "Budapest",
+            "Lisbon",
+            "Islamabad",
+            "Nairobi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Pakistan?",
+        "options": [
+            "Moscow",
+            "Islamabad",
+            "Bucharest",
+            "Jakarta"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Pakistan.",
+        "options": [
+            "Baghdad",
+            "Islamabad",
+            "London",
+            "Berlin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Pakistan?",
+        "options": [
+            "Copenhagen",
+            "Abuja",
+            "Tehran",
+            "Islamabad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Pakistan.",
+        "options": [
+            "Islamabad",
+            "Kuala Lumpur",
+            "Lisbon",
+            "Jakarta"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Pakistan?",
+        "options": [
+            "Jerusalem",
+            "Berlin",
+            "Kuala Lumpur",
+            "Islamabad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Bangladesh?",
+        "options": [
+            "Abuja",
+            "Vienna",
+            "Madrid",
+            "Dhaka"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Bangladesh?",
+        "options": [
+            "Baghdad",
+            "Athens",
+            "Vienna",
+            "Dhaka"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Bangladesh.",
+        "options": [
+            "Sofia",
+            "Bern",
+            "Santiago",
+            "Dhaka"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Bangladesh?",
+        "options": [
+            "Santiago",
+            "Dhaka",
+            "Warsaw",
+            "Seoul"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Bangladesh.",
+        "options": [
+            "Helsinki",
+            "Canberra",
+            "Singapore",
+            "Dhaka"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Bangladesh?",
+        "options": [
+            "Islamabad",
+            "Dhaka",
+            "Stockholm",
+            "Wellington"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Bangladesh.",
+        "options": [
+            "Ankara",
+            "Dhaka",
+            "New Delhi",
+            "Tehran"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Bangladesh?",
+        "options": [
+            "Riyadh",
+            "Dhaka",
+            "Tehran",
+            "Lisbon"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Bangladesh.",
+        "options": [
+            "Dhaka",
+            "Singapore",
+            "Baghdad",
+            "Kuala Lumpur"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city serves as the administrative capital of Bangladesh?",
+        "options": [
+            "Jerusalem",
+            "Buenos Aires",
+            "Dhaka",
+            "Ankara"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Vietnam?",
+        "options": [
+            "Santiago",
+            "Hanoi",
+            "Athens",
+            "Prague"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Vietnam?",
+        "options": [
+            "Hanoi",
+            "Warsaw",
+            "Bogotá",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Vietnam.",
+        "options": [
+            "Madrid",
+            "Buenos Aires",
+            "Hanoi",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What city serves as the capital of Vietnam?",
+        "options": [
+            "Madrid",
+            "Wellington",
+            "Vienna",
+            "Hanoi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Vietnam.",
+        "options": [
+            "Kyiv",
+            "Hanoi",
+            "Abuja",
+            "Bern"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Vietnam?",
+        "options": [
+            "Vienna",
+            "Budapest",
+            "Wellington",
+            "Hanoi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Vietnam.",
+        "options": [
+            "Moscow",
+            "Ankara",
+            "Buenos Aires",
+            "Hanoi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Vietnam?",
+        "options": [
+            "Copenhagen",
+            "Hanoi",
+            "Pretoria",
+            "Lima"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Vietnam.",
+        "options": [
+            "Tokyo",
+            "Hanoi",
+            "Kyiv",
+            "Stockholm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Vietnam?",
+        "options": [
+            "Hanoi",
+            "Tokyo",
+            "Madrid",
+            "Moscow"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Malaysia?",
+        "options": [
+            "Seoul",
+            "Santiago",
+            "Amsterdam",
+            "Kuala Lumpur"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Malaysia?",
+        "options": [
+            "Abuja",
+            "Dhaka",
+            "Baghdad",
+            "Kuala Lumpur"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the capital city of Malaysia.",
+        "options": [
+            "Jakarta",
+            "Kuala Lumpur",
+            "Brussels",
+            "Abuja"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Malaysia?",
+        "options": [
+            "Riyadh",
+            "Paris",
+            "Berlin",
+            "Kuala Lumpur"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Malaysia.",
+        "options": [
+            "Kuala Lumpur",
+            "Paris",
+            "Brussels",
+            "Prague"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Malaysia?",
+        "options": [
+            "Kuala Lumpur",
+            "Buenos Aires",
+            "Amsterdam",
+            "London"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of Malaysia.",
+        "options": [
+            "Lisbon",
+            "Nairobi",
+            "Buenos Aires",
+            "Kuala Lumpur"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the seat of government in Malaysia?",
+        "options": [
+            "Beirut",
+            "Kuala Lumpur",
+            "Moscow",
+            "Brasília"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Malaysia.",
+        "options": [
+            "Abuja",
+            "Kuala Lumpur",
+            "Kyiv",
+            "Dhaka"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Malaysia?",
+        "options": [
+            "Jakarta",
+            "Wellington",
+            "New Delhi",
+            "Kuala Lumpur"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Singapore?",
+        "options": [
+            "Berlin",
+            "New Delhi",
+            "Singapore",
+            "London"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Singapore?",
+        "options": [
+            "Pretoria",
+            "Oslo",
+            "Singapore",
+            "Jakarta"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Singapore.",
+        "options": [
+            "Rome",
+            "Singapore",
+            "Mexico City",
+            "Athens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Singapore?",
+        "options": [
+            "Jakarta",
+            "Bogotá",
+            "Singapore",
+            "Kyiv"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Singapore.",
+        "options": [
+            "Tokyo",
+            "Bucharest",
+            "Singapore",
+            "Helsinki"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the administrative center of Singapore?",
+        "options": [
+            "Sofia",
+            "Copenhagen",
+            "Oslo",
+            "Singapore"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Provide the capital city of Singapore.",
+        "options": [
+            "Buenos Aires",
+            "Hanoi",
+            "Singapore",
+            "Baghdad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Singapore?",
+        "options": [
+            "Singapore",
+            "Buenos Aires",
+            "Kyiv",
+            "Jerusalem"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Singapore.",
+        "options": [
+            "New Delhi",
+            "Sofia",
+            "Santiago",
+            "Singapore"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Singapore?",
+        "options": [
+            "Singapore",
+            "Brussels",
+            "Mexico City",
+            "Canberra"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital of Ukraine?",
+        "options": [
+            "Kyiv",
+            "Pretoria",
+            "Warsaw",
+            "Lima"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city is the capital of Ukraine?",
+        "options": [
+            "Amsterdam",
+            "Islamabad",
+            "Kyiv",
+            "Riyadh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Ukraine.",
+        "options": [
+            "Brussels",
+            "Kyiv",
+            "Nairobi",
+            "New Delhi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What city serves as the capital of Ukraine?",
+        "options": [
+            "Prague",
+            "Lima",
+            "Bern",
+            "Kyiv"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Ukraine.",
+        "options": [
+            "Singapore",
+            "Canberra",
+            "Seoul",
+            "Kyiv"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the administrative center of Ukraine?",
+        "options": [
+            "Madrid",
+            "Jakarta",
+            "Kyiv",
+            "Lima"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Ukraine.",
+        "options": [
+            "Singapore",
+            "Stockholm",
+            "Kyiv",
+            "Bogotá"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Ukraine?",
+        "options": [
+            "Kyiv",
+            "Copenhagen",
+            "Brasília",
+            "Athens"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Ukraine.",
+        "options": [
+            "Cairo",
+            "Jerusalem",
+            "Nairobi",
+            "Kyiv"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Ukraine?",
+        "options": [
+            "London",
+            "Kyiv",
+            "Berlin",
+            "Ankara"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Czech Republic?",
+        "options": [
+            "Copenhagen",
+            "Prague",
+            "Vienna",
+            "Stockholm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city is the capital of Czech Republic?",
+        "options": [
+            "Buenos Aires",
+            "Prague",
+            "Moscow",
+            "Riyadh"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Czech Republic.",
+        "options": [
+            "Jerusalem",
+            "Vienna",
+            "Wellington",
+            "Prague"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Czech Republic?",
+        "options": [
+            "Singapore",
+            "Amsterdam",
+            "Prague",
+            "Paris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the capital of Czech Republic.",
+        "options": [
+            "Prague",
+            "Seoul",
+            "Cairo",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Czech Republic?",
+        "options": [
+            "Jakarta",
+            "Prague",
+            "Berlin",
+            "Singapore"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Provide the capital city of Czech Republic.",
+        "options": [
+            "Bern",
+            "Madrid",
+            "Prague",
+            "Seoul"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Czech Republic?",
+        "options": [
+            "Prague",
+            "Berlin",
+            "Madrid",
+            "Brasília"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Czech Republic.",
+        "options": [
+            "Wellington",
+            "Buenos Aires",
+            "Prague",
+            "Vienna"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city serves as the administrative capital of Czech Republic?",
+        "options": [
+            "Cairo",
+            "Tokyo",
+            "Prague",
+            "Ottawa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Hungary?",
+        "options": [
+            "Bucharest",
+            "London",
+            "Mexico City",
+            "Budapest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Hungary?",
+        "options": [
+            "Madrid",
+            "Islamabad",
+            "Budapest",
+            "London"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the capital city of Hungary.",
+        "options": [
+            "Budapest",
+            "Stockholm",
+            "Riyadh",
+            "Lima"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What city serves as the capital of Hungary?",
+        "options": [
+            "Seoul",
+            "Ottawa",
+            "Cairo",
+            "Budapest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Hungary.",
+        "options": [
+            "Budapest",
+            "Berlin",
+            "Jerusalem",
+            "Wellington"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Hungary?",
+        "options": [
+            "Warsaw",
+            "Cairo",
+            "Budapest",
+            "Dhaka"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Hungary.",
+        "options": [
+            "Budapest",
+            "Singapore",
+            "Berlin",
+            "Stockholm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the seat of government in Hungary?",
+        "options": [
+            "Athens",
+            "Vienna",
+            "New Delhi",
+            "Budapest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State the capital of Hungary.",
+        "options": [
+            "Singapore",
+            "Buenos Aires",
+            "Brasília",
+            "Budapest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city serves as the administrative capital of Hungary?",
+        "options": [
+            "Copenhagen",
+            "Bucharest",
+            "Budapest",
+            "Dhaka"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Romania?",
+        "options": [
+            "Jakarta",
+            "Madrid",
+            "Copenhagen",
+            "Bucharest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which city is the capital of Romania?",
+        "options": [
+            "Bucharest",
+            "Lima",
+            "Kuala Lumpur",
+            "Budapest"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Name the capital city of Romania.",
+        "options": [
+            "Wellington",
+            "Nairobi",
+            "Kuala Lumpur",
+            "Bucharest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Romania?",
+        "options": [
+            "Lisbon",
+            "Stockholm",
+            "Hanoi",
+            "Bucharest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the capital of Romania.",
+        "options": [
+            "Bucharest",
+            "Amsterdam",
+            "Warsaw",
+            "Prague"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the administrative center of Romania?",
+        "options": [
+            "Beirut",
+            "Brasília",
+            "Bucharest",
+            "Dhaka"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Provide the capital city of Romania.",
+        "options": [
+            "Ankara",
+            "Tehran",
+            "Bucharest",
+            "Hanoi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the seat of government in Romania?",
+        "options": [
+            "Tehran",
+            "Bucharest",
+            "Warsaw",
+            "Brasília"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the capital of Romania.",
+        "options": [
+            "Jerusalem",
+            "Bucharest",
+            "Brussels",
+            "Athens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Romania?",
+        "options": [
+            "Budapest",
+            "London",
+            "Amsterdam",
+            "Bucharest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Bulgaria?",
+        "options": [
+            "Jakarta",
+            "Beirut",
+            "Sofia",
+            "Mexico City"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which city is the capital of Bulgaria?",
+        "options": [
+            "Hanoi",
+            "Sofia",
+            "Kyiv",
+            "Berlin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the capital city of Bulgaria.",
+        "options": [
+            "Prague",
+            "Madrid",
+            "Lisbon",
+            "Sofia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What city serves as the capital of Bulgaria?",
+        "options": [
+            "Santiago",
+            "Sofia",
+            "Stockholm",
+            "Prague"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the capital of Bulgaria.",
+        "options": [
+            "Vienna",
+            "Sofia",
+            "Amsterdam",
+            "Cairo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the administrative center of Bulgaria?",
+        "options": [
+            "Sofia",
+            "Bern",
+            "Jerusalem",
+            "Seoul"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Provide the capital city of Bulgaria.",
+        "options": [
+            "Warsaw",
+            "Sofia",
+            "Vienna",
+            "Berlin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the seat of government in Bulgaria?",
+        "options": [
+            "Sofia",
+            "Brasília",
+            "Abuja",
+            "Brussels"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "State the capital of Bulgaria.",
+        "options": [
+            "Lima",
+            "Sofia",
+            "Pretoria",
+            "New Delhi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city serves as the administrative capital of Bulgaria?",
+        "options": [
+            "Islamabad",
+            "Kyiv",
+            "Sofia",
+            "London"
+        ],
+        "answer": 2
+    }
+]
