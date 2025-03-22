@@ -8,7 +8,7 @@ class GameView:
         self.screen = screen
         self.model = model
 
-        # Back button (drawn on every screen except welcome).
+        # Default Back button (for most screens, drawn at top-left).
         self.back_button = Button(10, 10, 80, 40, "Back")
 
         # Welcome screen: a single Start button.
@@ -91,7 +91,6 @@ class GameView:
             self.name_start_button.draw(self.screen)
 
         elif state == "mode_select":
-            # Used only for two-player mode.
             title = FONT.render("Select Board Mode", True, BLACK)
             title_rect = title.get_rect(center=(300, 150))
             self.screen.blit(title, title_rect)
@@ -104,6 +103,9 @@ class GameView:
             info_text = f"{self.model.player1_name} (X) vs {self.model.player2_name} (O)  Turn: {self.model.current_turn}"
             info = SMALL_FONT.render(info_text, True, BLACK)
             self.screen.blit(info, (20, 20))
+            # When inside a game, reposition the back button to the bottom left.
+            self.back_button.rect.topleft = (10, 550)
+            self.back_button.draw(self.screen)
 
         elif state == "trivia":
             self.trivia_buttons = []
@@ -117,6 +119,9 @@ class GameView:
                     btn = Button(x, y + idx * 60, 400, 50, option)
                     btn.draw(self.screen)
                     self.trivia_buttons.append((btn, idx))
+            # Use default back button position for trivia.
+            self.back_button.rect.topleft = (10, 10)
+            self.back_button.draw(self.screen)
 
         elif state == "result":
             big_font = pygame.font.SysFont("Arial", 60)
@@ -124,8 +129,12 @@ class GameView:
             text_rect = res.get_rect(center=(300, 300))
             self.screen.blit(res, text_rect)
             self.play_again_button.draw(self.screen)
+            self.back_button.rect.topleft = (10, 10)
+            self.back_button.draw(self.screen)
 
-        if state != "welcome":
+        # For all other screens (that are not "game"), draw back button at default position.
+        if state not in ["welcome", "game", "trivia", "result"]:
+            self.back_button.rect.topleft = (10, 10)
             self.back_button.draw(self.screen)
 
         pygame.display.flip()
